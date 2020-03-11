@@ -1,5 +1,8 @@
 # DemoPlex Hello World! 
 
+Shake it out on your browser (https://mauatgoogle.github.io/hellodemoplex/)
+
+
 This lil guy uses [Cannon.js](https://github.com/schteppe/cannon.js) and renders it with [Three.js](https://threejs.org/)
 
 ![Physics in WebGL with cannonjs and threejs](https://tympanus.net/codrops/wp-content/uploads/2019/12/thumb-tutorial-physics-cannonjs.jpg)
